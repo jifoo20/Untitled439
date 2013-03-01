@@ -3,6 +3,6 @@
 
 	For more information, refer to http://doc.wakanda.org/Wakanda Studio0.Beta/help/Title/en/page3355.html
 */
-exports.helloWorld = function helloWorld () {
-	return ('Hello world');
-};
+fmsklqjdfhmklqjfhdlksjqhfldksjhqlfkjsdhf
+qsdmlfqlksdjfmlkjqsd
+fjqmslkdfjmqlkjfds
